@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/vogulam2306/Kidney-Disease-Classification
+Author: vogulam2306
+Author-email: harshavogulam@gmail.com
+Project-URL: Bug Tracker, https://github.com/vogulam2306/Kidney-Disease-Classification/issues
+
+# kidney disease classification
+
+How to run?
+
+STEPS:Clone the repository
+https://github.com/vogulam2306/kidneydisease.git
+
+STEP 01- Create a conda environment after opening the repository
+conda create -n kidney python=3.8 -y
+
+conda activate kidney
+
+STEP 02- install the requirements
+pip install -r requirements.txt
+
+# Finally run the following command
+python app.py
