@@ -32,3 +32,9 @@ pip install -r requirements.txt
 
 ### Finally run the following command
 python app.py
+
+
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/vogulam2306/kidneydisease.mlflow
+export MLFLOW_TRACKING_USERNAME=vogulam2306
+export MLFLOW_TRACKING_PASSWORD=328469a285a833106c83198b75a0283965ec6fa6
