@@ -68,20 +68,21 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-DVC-Chicken-Disease-Classification.mlflow 
-MLFLOW_TRACKING_USERNAME=entbappy 
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 
+MLFLOW_TRACKING_URI=https://dagshub.com/vogulam2306/kidneydisease.mlflow 
+MLFLOW_TRACKING_USERNAME=vogulam2306 
+MLFLOW_TRACKING_PASSWORD=328469a285a833106c83198b75a0283965ec6fa6 
 python script.py
+
 
 Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-DVC-Chicken-Disease-Classification.mlflow
+export MLFLOW_TRACKING_URI= https://dagshub.com/vogulam2306/kidneydisease.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=vogulam2306 
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 
+export MLFLOW_TRACKING_PASSWORD=328469a285a833106c83198b75a0283965ec6fa6 
 
 ```
 
@@ -153,9 +154,9 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = 
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 
 
     ECR_REPOSITORY_NAME = simple-app
 
