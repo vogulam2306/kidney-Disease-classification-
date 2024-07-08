@@ -201,10 +201,3 @@ Go to `settings > actions > runner > new self-hosted runner`, choose OS, then ru
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to the contributors and open-source community for their invaluable resources and support.
-```
-
-This README file provides a comprehensive guide on setting up and running the project, along with detailed information about workflows, contributions, and achievements, making it attractive to recruiters and helpful for collaborators.
