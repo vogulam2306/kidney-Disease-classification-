@@ -1,12 +1,9 @@
-Sure! Here’s the comprehensive README file with all bash commands and text included:
-
-```markdown
 # Kidney-Disease-Classification-MLflow-DVC
 
-## Project Overview
+### Project Overview
 This project aims to develop and deploy a robust deep learning model for kidney disease classification using ultrasound images. The objective is to enhance early detection accuracy and streamline deployment processes by leveraging various MLOps tools and cloud deployment strategies.
 
-## Workflows
+### Workflows
 
 1. Update `config.yaml`
 2. Update `secrets.yaml` [Optional]
@@ -18,7 +15,7 @@ This project aims to develop and deploy a robust deep learning model for kidney 
 8. Update the `main.py`
 9. Update the `dvc.yaml`
 
-## How to Run?
+### How to Run?
 
 ### STEPS:
 
